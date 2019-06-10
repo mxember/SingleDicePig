@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VidrineGabriel-Homework3</string>
+    <string name="action_settings">Settings</string>
+    <string name="roll_again">Roll Again</string>
+    <string name="hold">Hold</string>
+    <string name="trough">Trough</string>
+    <string name="player_score">Score</string>
+    <string name="computer_score">Computer</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="restarting_game">Game is restarting with your new settings</string>
+    <string name="target_score_description">Change target score to 50, 100, 150, or 200</string>
+    <string name="player_wins">You win!</string>
+    <string name="player_loses">You lose!</string>
+    <string name="target_score">Target Score</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="default_target">100</string>
+    <string name="default_target_message">A target must be selected. Changing to default target, 100.</string>
+    <string name="player_loses_trough">You lose the trough! Computer is taking a turn.</string>
+    <string name="computer_loses_trough">Computer loses the trough. Your turn.</string>
+    <string name="player_holds">Player holds. Computer taking turn.</string>
+    <string name="computer_holds">Computer holds. Player turn.</string>
+    <string name="welcome_message">Welcome to Pig!</string>
+</resources>
