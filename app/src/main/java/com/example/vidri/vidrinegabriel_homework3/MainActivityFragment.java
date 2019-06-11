@@ -98,7 +98,7 @@ public class MainActivityFragment extends Fragment {
         resultTextView.setText(getString(R.string.welcome_message));
 
         //Make first roll
-        rollAgain();
+        //rollAgain();
 
 
 
@@ -136,7 +136,7 @@ public class MainActivityFragment extends Fragment {
 
 
         //Start the next game by rolling the first die
-        rollAgain();
+        //rollAgain();
     }
 
     //Starts game with first roll and then whenever player chooses to roll the dice again

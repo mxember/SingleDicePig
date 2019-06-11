@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">VidrineGabriel-Homework3</string>
     <string name="action_settings">Settings</string>
-    <string name="roll_again">Roll Again</string>
+    <string name="roll_again">Roll</string>
     <string name="hold">Hold</string>
     <string name="trough">Trough</string>
     <string name="player_score">Score</string>
